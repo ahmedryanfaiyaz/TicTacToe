@@ -1,6 +1,6 @@
 """
-date: 10/13/2021
-author: Ahmed Ryan
+Created on 10/13/2021
+@author: Ahmed Ryan
 """
 
 the_board = {
